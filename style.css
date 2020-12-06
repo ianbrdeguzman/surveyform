@@ -115,6 +115,10 @@ header {
     border: 1px solid #6eb788;
 }
 
+footer{
+    font-size: .8rem;
+}
+
 @media (min-width: 768px) {
     body {
         font-size: 2rem;
@@ -163,6 +167,11 @@ header {
     .clue {
         font-size: 1.2rem;
     }
+
+    footer{
+        font-size: 1.2rem;
+    }
+    
 }
 
 @media (min-width: 1025px) {
@@ -212,5 +221,9 @@ header {
     }
     .clue {
         font-size: 1.2rem;
+    }
+
+    footer{
+        font-size: 1.4rem;
     }
 }
